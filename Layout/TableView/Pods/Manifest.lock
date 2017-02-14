@@ -1,0 +1,12 @@
+PODS:
+  - APParallaxHeader (0.1.6)
+
+DEPENDENCIES:
+  - APParallaxHeader
+
+SPEC CHECKSUMS:
+  APParallaxHeader: 854bc48a2487ca12c702f8a236fec0d89cdac5c3
+
+PODFILE CHECKSUM: 253c6c2799df7deeae17e8a7668beab361eb1d9c
+
+COCOAPODS: 1.1.1
